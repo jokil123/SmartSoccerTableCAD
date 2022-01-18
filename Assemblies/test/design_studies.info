@@ -1,0 +1,7 @@
+<cfd_design_studies version="21.0.20201120" user_name="jo_ki">
+ <design_study folder="C:\GIT\SmartSoccerTableCAD\Assemblies/test" study_id="89b6cd0c-0bd1-40e4-8783-21f1b8214a78" instance_id="id_not_defined" name="test">
+  <design launcher_type="CP_ASM_INVENTOR_IMPORT" lock_status="false" model_id="Master.cfdsmt" name="Design 1">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
